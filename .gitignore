@@ -1,0 +1,7 @@
+# Bases de données locales
+Bases de données/*.sqlite
+Bases de données/*.db
+
+# éventuellement toutes les bases sqlite
+*.sqlite
+*.db
